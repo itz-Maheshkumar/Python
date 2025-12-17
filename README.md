@@ -5,10 +5,19 @@ This repository contains Python programs created while learning Python, Git, and
 ## Branches
 
 - **main**
-  - Contains basic Python programs
+  -Contains Python programs
   - Programs added:
     - `list.py`
     - `tuple.py`
+    - `Dictionaries.py`
+    - `LinearSearch.py`
+
+- **basic-programs**
+  - Contains basic Python programs
+  - Programs added :
+     - `list.py`
+     - `tuple.py`
+     - `Dictionaries.py`
 
 - **dsa-programs**
   - Contains DSA practice programs
