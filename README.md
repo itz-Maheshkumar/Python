@@ -5,7 +5,7 @@ This repository contains Python programs created while learning Python, Git, and
 ## Branches
 
 - **main**
-  -Contains Python programs
+  - Contains Python programs
   - Programs added:
     - `list.py`
     - `tuple.py`
