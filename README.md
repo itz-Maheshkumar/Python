@@ -10,7 +10,9 @@ This repository contains Python programs created while learning Python, Git, and
     - `list.py`
     - `tuple.py`
     - `Dictionaries.py`
+    - `Sets.py`
     - `LinearSearch.py`
+    - `BinarySearch.py`
 
 - **basic-programs**
   - Contains basic Python programs
@@ -18,11 +20,13 @@ This repository contains Python programs created while learning Python, Git, and
      - `list.py`
      - `tuple.py`
      - `Dictionaries.py`
+     - `Sets.py`
 
 - **dsa-programs**
   - Contains DSA practice programs
   - Programs added:
     - `LinearSearch.py`
+    - `BinarySearch.py`
 
 ## Purpose
 
